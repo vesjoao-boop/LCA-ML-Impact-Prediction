@@ -22,7 +22,6 @@ In short, the script takes your .csv dataset and does all the heavy lifting for 
 *   Performs robust validation using Stratified K-Fold (10 folds) with multiple repeats.
 *   Calculates detailed metrics, including R² (train and test), MSE, and an overfitting index.
 *   Generates automated plots, including performance comparisons, trade-off charts (Computational Time vs. R²), and—crucially for environmental studies—feature explainability using SHAP.
-*   Item da lista
 *   Exports ready-to-use data, generating CSV spreadsheets with metric summaries and individual row-by-row predictions for further analysis.
 
 
