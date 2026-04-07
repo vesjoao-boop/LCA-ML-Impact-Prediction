@@ -80,7 +80,7 @@ jupyter notebook github_pipeline_lca+ml_integration.ipynb
 If this code or dataset is useful for your research, please cite our paper:
 
 ```bibtex
-@article{Salla2026lca,
+@article{Salla et al (2026) -  In process,
   title={Accelerating Life Cycle Assessment: A Machine Learning-Based Decision-Support Pipeline for Environmental Impact Prediction},
   author={João Victor Encide Salla, Tiago Agostinho de Almeida and Diogo Aparecido Lopes Silva},
   journal={Journal of Cleaner Prodyction (target)},
