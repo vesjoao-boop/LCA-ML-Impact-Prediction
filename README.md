@@ -15,14 +15,7 @@ This repository contains the methodology and source code to predict environmenta
 Currently, the repository is streamlined into two main components:
 
 1. **`github_pipeline_lca+ml_integration`**: The core script/notebook that contains the end-to-end Machine Learning pipeline. It handles everything from data loading and preprocessing to model training, evaluation, and prediction.
-2. **`data`**: Anonymized dataset provided for training and testing the models, ensuring reproducibility without compromising sensitive or proprietary industrial information.
-
-## 📊 Dataset Overview
-
-The provided anonymized dataset is structured to train supervised learning algorithms. It consists of:
-
-* **20 Input Features (X):** Representing the process parameters, material inputs, or aggregated LCI flows.
-* **3 Target Features (y):** Representing the specific environmental impact categories (LCIA results) to be predicted by the model.
+2. **`data`**: generic dataset provided for training and testing the models, ensuring reproducibility without compromising sensitive or proprietary industrial information.
 
 ## 🚀 Getting Started
 
@@ -53,8 +46,15 @@ pip install -r requirements.txt
 ```
 
 ### 3. Run the Prediction Pipeline
-To train the Machine Learning models and predict the 3 target LCA impact categories using the 20 input features, run the main pipeline file. 
+Due to confidentiality reasons, the real industrial LCA dataset is not publicly available. However, to ensure full reproducibility, we provide a script that generates a synthetic dataset containing 200 samples, 20 LCA-related input features (materials, energy, transport), and 3 target impact categories.
 
+#### 📊 Dataset Overview
+
+The provided anonymized dataset is structured to train supervised learning algorithms. It consists of:
+
+* **20 Input Features (X):** Representing the process parameters, material inputs, or aggregated LCI flows.
+* **3 Target Features (y):** Representing the specific environmental impact categories (LCIA results) to be predicted by the model.
+  
 ```bash
 # If using a standard Python script:
 python github_pipeline_lca+ml_integration.py
