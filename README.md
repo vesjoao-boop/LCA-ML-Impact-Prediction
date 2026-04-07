@@ -50,7 +50,7 @@ Due to confidentiality reasons, the real industrial LCA dataset is not publicly 
 
 #### 📊 Dataset Overview
 
-The provided anonymized dataset is structured to train supervised learning algorithms. It consists of:
+The provided generic dataset is structured to train supervised learning algorithms. It consists of:
 
 * **20 Input Features (X):** Representing the process parameters, material inputs, or aggregated LCI flows.
 * **3 Target Features (y):** Representing the specific environmental impact categories (LCIA results) to be predicted by the model.
