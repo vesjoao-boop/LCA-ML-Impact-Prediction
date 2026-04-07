@@ -69,6 +69,7 @@ jupyter notebook github_pipeline_lca+ml_integration.ipynb
 <img width="826" height="528" alt="image" src="https://github.com/user-attachments/assets/5843e483-23c4-4e51-b76a-005693803c34" />
 <img width="1990" height="590" alt="image" src="https://github.com/user-attachments/assets/f2f01be5-bf47-4ea5-a18d-3e77b8ff1e38" />
 <img width="758" height="900" alt="image" src="https://github.com/user-attachments/assets/88249c52-977b-4f18-ac29-50b456d415a2" />
+<img width="1391" height="790" alt="image" src="https://github.com/user-attachments/assets/16c43dc2-af93-4017-8698-9e59dcd8e732" />
 
 
 
