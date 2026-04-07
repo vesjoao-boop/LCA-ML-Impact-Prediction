@@ -21,8 +21,8 @@ Currently, the repository is streamlined into two main components:
 
 The provided anonymized dataset is structured to train supervised learning algorithms. It consists of:
 
-* **20 Input Features ($X$):** Representing the process parameters, material inputs, or aggregated LCI flows.
-* **3 Target Features ($y$):** Representing the specific environmental impact categories (LCIA results) to be predicted by the model.
+* **20 Input Features (X):** Representing the process parameters, material inputs, or aggregated LCI flows.
+* **3 Target Features (y):** Representing the specific environmental impact categories (LCIA results) to be predicted by the model.
 
 ## 🚀 Getting Started
 
@@ -31,5 +31,55 @@ Make sure you have Python installed. It is highly recommended to use a virtual e
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/vesjoao-boop/LCA-ML-Impact-Prediction.git](https://github.com/vesjoao-boop/LCA-ML-Impact-Prediction.git)
+git clone https://github.com/vesjoao-boop/LCA-ML-Impact-Prediction.git
 cd LCA-ML-Impact-Prediction
+```
+
+### 2. Install required packages
+To ensure the code runs correctly, you need to install the same libraries used during development. We highly recommend creating a virtual environment first.
+
+```bash
+# Create a virtual environment (optional but recommended)
+python -m venv venv
+
+# Activate the environment (Windows)
+venv\Scripts\activate
+
+# Activate the environment (Linux/Mac)
+source venv/bin/activate
+
+# Install the dependencies
+pip install -r requirements.txt
+```
+
+### 3. Run the Prediction Pipeline
+To train the Machine Learning models and predict the 3 target LCA impact categories using the 20 input features, run the main pipeline file. 
+
+```bash
+# If using a standard Python script:
+python github_pipeline_lca+ml_integration.py
+
+# If using a Jupyter Notebook:
+jupyter notebook github_pipeline_lca+ml_integration.ipynb
+```
+
+## 📈 Results and Visualizations
+
+*(Drag and drop an image of your graphs here. For example, a Feature Importance chart or a parity plot showing Actual Impacts vs. Predicted Impacts).*
+
+## 🎓 4. Citation
+
+If this code or dataset is useful for your research, please cite our paper:
+
+```bibtex
+@article{yourlastname2026lca,
+  title={Your Paper Title Here: Integrating LCA and ML},
+  author={Your Name and Co-authors},
+  journal={Target Journal Name},
+  year={2026}
+}
+```
+
+## 📝 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
