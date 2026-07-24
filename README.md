@@ -57,10 +57,10 @@ The provided generic dataset is structured to train supervised learning algorith
   
 ```bash
 # If using a standard Python script:
-python github_pipeline_lca+ml_integration.py
+python Github_Pipeline LCA+ML integration.ipynb
 
 # If using a Jupyter Notebook:
-jupyter notebook github_pipeline_lca+ml_integration.ipynb
+jupyter notebook Github_Pipeline LCA+ML integration.ipynb
 ```
 
 ## 📈 Results and Visualizations
