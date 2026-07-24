@@ -65,11 +65,12 @@ jupyter notebook Github_Pipeline LCA+ML integration.ipynb
 
 ## 📈 Results and Visualizations
 
-<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/eedaf849-9ffc-4c5c-a131-e5ecfa89d56c" />
-<img width="826" height="528" alt="image" src="https://github.com/user-attachments/assets/5843e483-23c4-4e51-b76a-005693803c34" />
-<img width="1990" height="590" alt="image" src="https://github.com/user-attachments/assets/f2f01be5-bf47-4ea5-a18d-3e77b8ff1e38" />
-<img width="758" height="900" alt="image" src="https://github.com/user-attachments/assets/88249c52-977b-4f18-ac29-50b456d415a2" />
-<img width="1391" height="790" alt="image" src="https://github.com/user-attachments/assets/16c43dc2-af93-4017-8698-9e59dcd8e732" />
+<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/8be7e053-1a4b-4113-abf0-58a8ea1d9e35" />
+<img width="822" height="528" alt="image" src="https://github.com/user-attachments/assets/34c03936-c6ad-48ba-b615-304be55161f1" />
+<img width="1990" height="590" alt="image" src="https://github.com/user-attachments/assets/1c22144e-709e-4164-bb72-3d930ab1bdee" />
+<img width="759" height="940" alt="image" src="https://github.com/user-attachments/assets/0add3eb7-88c9-4bc0-a793-4647be232c68" />
+<img width="1391" height="790" alt="image" src="https://github.com/user-attachments/assets/f9ff2012-ae06-4e95-9798-2b6559a3a1af" />
+
 
 
 
