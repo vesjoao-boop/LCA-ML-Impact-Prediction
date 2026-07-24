@@ -83,7 +83,7 @@ If this code or dataset is useful for your research, please cite our paper:
 @article{Salla et al., (2026) -  In process},
   title={Accelerating Life Cycle Assessment: A Machine Learning-Based Decision-Support Pipeline for Multi-Source Environmental Impact Prediction},
   author={João Victor Encide Salla, Tiago Agostinho de Almeida and Diogo Aparecido Lopes Silva},
-  journal={Journal of Cleaner Production (In process)},
+  journal={Sustainable Production and Consumption | Journal (In process)},
   research group= {EngS and LaSID, UFSCar - Brazil}
   year={2026}
 }
@@ -91,7 +91,7 @@ If this code or dataset is useful for your research, please cite our paper:
 
 ## 🏦 5. Funding
 
-This work was supported by the “Fundação de Amparo à Pesquisa do Estado de São Paulo” (FAPESP, grant number 2022/15134-1) and the Coordination for the Improvement of Higher Education Personnel – Brazil (CAPES) - Finance Code 001.
+This work was supported by the “Fundação de Amparo à Pesquisa do Estado de São Paulo” (FAPESP, grant number 2022/15134-1 and 2026/08371-8) and the Coordination for the Improvement of Higher Education Personnel – Brazil (CAPES) - Finance Code 001.
 
 ## 📝 License
 
