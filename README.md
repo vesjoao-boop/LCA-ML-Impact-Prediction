@@ -81,12 +81,16 @@ jupyter notebook Github_Pipeline LCA+ML integration.ipynb
 If this code or dataset is useful for your research, please cite our paper:
 
 ```bibtex
-@article{Salla et al., (2026) -  In process},
-  title={Accelerating Life Cycle Assessment: A Machine Learning-Based Decision-Support Pipeline for Multi-Source Environmental Impact Prediction},
-  author={João Victor Encide Salla, Tiago Agostinho de Almeida and Diogo Aparecido Lopes Silva},
-  journal={Sustainable Production and Consumption | Journal (In process)},
-  research group= {EngS and LaSID, UFSCar - Brazil}
-  year={2026}
+@article{SALLA2026163,
+title = {Accelerating life cycle assessment: A machine learning-based decision-support pipeline for multi-source environmental impact prediction},
+journal = {Sustainable Production and Consumption},
+volume = {69},
+pages = {163-178},
+year = {2026},
+issn = {2352-5509},
+doi = {https://doi.org/10.1016/j.spc.2026.09.010},
+url = {https://www.sciencedirect.com/science/article/pii/S2352550926001272},
+author = {João Victor Encide Salla and Tiago Agostinho {de Almeida} and Diogo Aparecido Lopes Silva}
 }
 ```
 
