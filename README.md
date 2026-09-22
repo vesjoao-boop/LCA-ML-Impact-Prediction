@@ -96,7 +96,7 @@ author = {João Victor Encide Salla and Tiago Agostinho {de Almeida} and Diogo A
 
 ## 🏦 5. Funding
 
-This work was supported by the “Fundação de Amparo à Pesquisa do Estado de São Paulo” (FAPESP, grant number 2022/15134-1 and 2026/08371-8) and the Coordination for the Improvement of Higher Education Personnel – Brazil (CAPES) - Finance Code 001.
+The authors are grateful to the São Paulo Research Foundation (FAPESP), grant numbers 2022/15134-1, 2025/14074-3 and 2026/08371-8, and to the Coordination for the Improvement of Higher Education Personnel – Brazil (CAPES), Funding Code 001.
 
 ## 📝 License
 
